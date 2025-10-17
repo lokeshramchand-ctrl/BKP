@@ -1,62 +1,62 @@
-[4C](https://codeforces.com/problemset/problem/4/C)
-[25A](https://codeforces.com/problemset/problem/25/A)
-[32B](https://codeforces.com/problemset/problem/32/B)
-[41A](https://codeforces.com/problemset/problem/41/A)
-[63A](https://codeforces.com/problemset/problem/63/A)
-[69A](https://codeforces.com/problemset/problem/69/A)
-[82A](https://codeforces.com/problemset/problem/82/A)
-[116A](https://codeforces.com/problemset/problem/116/A)
-[119A](https://codeforces.com/problemset/problem/119/A)
-[141A](https://codeforces.com/problemset/problem/141/A)
-[144A](https://codeforces.com/problemset/problem/144/A)
-[149A](https://codeforces.com/problemset/problem/149/A)
-[155A](https://codeforces.com/problemset/problem/155/A)
-[186A](https://codeforces.com/problemset/problem/186/A)
-[200B](https://codeforces.com/problemset/problem/200/B)
-[236A](https://codeforces.com/problemset/problem/236/A)
-[262A](https://codeforces.com/problemset/problem/262/A)
-[263A](https://codeforces.com/problemset/problem/263/A)
-[266A](https://codeforces.com/problemset/problem/266/A)
-[268A](https://codeforces.com/problemset/problem/268/A)
-[271A](https://codeforces.com/problemset/problem/271/A)
-[318A](https://codeforces.com/problemset/problem/318/A)
-[337A](https://codeforces.com/problemset/problem/337/A)
-[427A](https://codeforces.com/problemset/problem/427/A)
-[439A](https://codeforces.com/problemset/problem/439/A)
-[443A](https://codeforces.com/problemset/problem/443/A)
-[451A](https://codeforces.com/problemset/problem/451/A)
-[456A](https://codeforces.com/problemset/problem/456/A)
-[467A](https://codeforces.com/problemset/problem/467/A)
-[469A](https://codeforces.com/problemset/problem/469/A)
-[471A](https://codeforces.com/problemset/problem/471/A)
-[474A](https://codeforces.com/problemset/problem/474/A)
-[476A](https://codeforces.com/problemset/problem/476/A)
-[479A](https://codeforces.com/problemset/problem/479/A)
-[490A](https://codeforces.com/problemset/problem/490/A)
-[492A](https://codeforces.com/problemset/problem/492/A)
-[493B](https://codeforces.com/problemset/problem/493/B)
-[509A](https://codeforces.com/problemset/problem/509/A)
-[510A](https://codeforces.com/problemset/problem/510/A)
-[513A](https://codeforces.com/problemset/problem/513/A)
-[519A](https://codeforces.com/problemset/problem/519/A)
-[519B](https://codeforces.com/problemset/problem/519/B)
-[520A](https://codeforces.com/problemset/problem/520/A)
-[540A](https://codeforces.com/problemset/problem/540/A)
-[546A](https://codeforces.com/problemset/problem/546/A)
-[556A](https://codeforces.com/problemset/problem/556/A)
-[577A](https://codeforces.com/problemset/problem/577/A)
-[580A](https://codeforces.com/problemset/problem/580/A)
-[581A](https://codeforces.com/problemset/problem/581/A)
-[599A](https://codeforces.com/problemset/problem/599/A)
-[617A](https://codeforces.com/problemset/problem/617/A)
-[703A](https://codeforces.com/problemset/problem/703/A)
-[707A](https://codeforces.com/problemset/problem/707/A)
-[711A](https://codeforces.com/problemset/problem/711/A)
-[716A](https://codeforces.com/problemset/problem/716/A)
-[723A](https://codeforces.com/problemset/problem/723/A)
-[732A](https://codeforces.com/problemset/problem/732/A)
-[734A](https://codeforces.com/problemset/problem/734/A)
-[758A](https://codeforces.com/problemset/problem/758/A)
-[808A](https://codeforces.com/problemset/problem/808/A)
-[810A](https://codeforces.com/problemset/problem/810/A)
-[946A](https://codeforces.com/problemset/problem/946/A)
+<a href="https://codeforces.com/problemset/problem/116/A" target="_blank">116A</a>  
+<a href="https://codeforces.com/problemset/problem/119/A" target="_blank">119A</a>  
+<a href="https://codeforces.com/problemset/problem/141/A" target="_blank">141A</a>  
+<a href="https://codeforces.com/problemset/problem/144/A" target="_blank">144A</a>  
+<a href="https://codeforces.com/problemset/problem/149/A" target="_blank">149A</a>  
+<a href="https://codeforces.com/problemset/problem/155/A" target="_blank">155A</a>  
+<a href="https://codeforces.com/problemset/problem/186/A" target="_blank">186A</a>  
+<a href="https://codeforces.com/problemset/problem/200/B" target="_blank">200B</a>  
+<a href="https://codeforces.com/problemset/problem/236/A" target="_blank">236A</a>  
+<a href="https://codeforces.com/problemset/problem/25/A" target="_blank">25A</a>  
+<a href="https://codeforces.com/problemset/problem/262/A" target="_blank">262A</a>  
+<a href="https://codeforces.com/problemset/problem/263/A" target="_blank">263A</a>  
+<a href="https://codeforces.com/problemset/problem/266/A" target="_blank">266A</a>  
+<a href="https://codeforces.com/problemset/problem/268/A" target="_blank">268A</a>  
+<a href="https://codeforces.com/problemset/problem/271/A" target="_blank">271A</a>  
+<a href="https://codeforces.com/problemset/problem/318/A" target="_blank">318A</a>  
+<a href="https://codeforces.com/problemset/problem/32/B" target="_blank">32B</a>  
+<a href="https://codeforces.com/problemset/problem/337/A" target="_blank">337A</a>  
+<a href="https://codeforces.com/problemset/problem/41/A" target="_blank">41A</a>  
+<a href="https://codeforces.com/problemset/problem/427/A" target="_blank">427A</a>  
+<a href="https://codeforces.com/problemset/problem/439/A" target="_blank">439A</a>  
+<a href="https://codeforces.com/problemset/problem/443/A" target="_blank">443A</a>  
+<a href="https://codeforces.com/problemset/problem/451/A" target="_blank">451A</a>  
+<a href="https://codeforces.com/problemset/problem/456/A" target="_blank">456A</a>  
+<a href="https://codeforces.com/problemset/problem/467/A" target="_blank">467A</a>  
+<a href="https://codeforces.com/problemset/problem/469/A" target="_blank">469A</a>  
+<a href="https://codeforces.com/problemset/problem/471/A" target="_blank">471A</a>  
+<a href="https://codeforces.com/problemset/problem/474/A" target="_blank">474A</a>  
+<a href="https://codeforces.com/problemset/problem/476/A" target="_blank">476A</a>  
+<a href="https://codeforces.com/problemset/problem/479/A" target="_blank">479A</a>  
+<a href="https://codeforces.com/problemset/problem/490/A" target="_blank">490A</a>  
+<a href="https://codeforces.com/problemset/problem/492/A" target="_blank">492A</a>  
+<a href="https://codeforces.com/problemset/problem/493B" target="_blank">493B</a>  
+<a href="https://codeforces.com/problemset/problem/4/C" target="_blank">4C</a>  
+<a href="https://codeforces.com/problemset/problem/509/A" target="_blank">509A</a>  
+<a href="https://codeforces.com/problemset/problem/510/A" target="_blank">510A</a>  
+<a href="https://codeforces.com/problemset/problem/513/A" target="_blank">513A</a>  
+<a href="https://codeforces.com/problemset/problem/519A" target="_blank">519A</a>  
+<a href="https://codeforces.com/problemset/problem/519B" target="_blank">519B</a>  
+<a href="https://codeforces.com/problemset/problem/520/A" target="_blank">520A</a>  
+<a href="https://codeforces.com/problemset/problem/540/A" target="_blank">540A</a>  
+<a href="https://codeforces.com/problemset/problem/546/A" target="_blank">546A</a>  
+<a href="https://codeforces.com/problemset/problem/556/A" target="_blank">556A</a>  
+<a href="https://codeforces.com/problemset/problem/577/A" target="_blank">577A</a>  
+<a href="https://codeforces.com/problemset/problem/580/A" target="_blank">580A</a>  
+<a href="https://codeforces.com/problemset/problem/581/A" target="_blank">581A</a>  
+<a href="https://codeforces.com/problemset/problem/599/A" target="_blank">599A</a>  
+<a href="https://codeforces.com/problemset/problem/617/A" target="_blank">617A</a>  
+<a href="https://codeforces.com/problemset/problem/63/A" target="_blank">63A</a>  
+<a href="https://codeforces.com/problemset/problem/69/A" target="_blank">69A</a>  
+<a href="https://codeforces.com/problemset/problem/703/A" target="_blank">703A</a>  
+<a href="https://codeforces.com/problemset/problem/707A" target="_blank">707A</a>  
+<a href="https://codeforces.com/problemset/problem/711/A" target="_blank">711A</a>  
+<a href="https://codeforces.com/problemset/problem/716/A" target="_blank">716A</a>  
+<a href="https://codeforces.com/problemset/problem/723/A" target="_blank">723A</a>  
+<a href="https://codeforces.com/problemset/problem/732/A" target="_blank">732A</a>  
+<a href="https://codeforces.com/problemset/problem/734/A" target="_blank">734A</a>  
+<a href="https://codeforces.com/problemset/problem/758/A" target="_blank">758A</a>  
+<a href="https://codeforces.com/problemset/problem/808/A" target="_blank">808A</a>  
+<a href="https://codeforces.com/problemset/problem/810/A" target="_blank">810A</a>  
+<a href="https://codeforces.com/problemset/problem/82/A" target="_blank">82A</a>  
+<a href="https://codeforces.com/problemset/problem/946A" target="_blank">946A</a>
